@@ -1,0 +1,3 @@
+Está es nuestra primera línea en este primer archivo
+Está es nuestra segunda línea
+Modificación de un archivo que esta en el staging area
